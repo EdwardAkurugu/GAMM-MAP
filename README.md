@@ -17,9 +17,9 @@
 
 **GAM(M)-MAP** is an interactive R Shiny dashboard built to accompany the research article:
 
-> **Akurugu E., Awine T., Seidu B., Peprah N.Y., Mohammed W., Boateng P., Abiwu P.H.A.K., Silal S.P.**
+> **Akurugu E., Awine T., Seidu B., Peprah N.Y., Mohammed W., Boateng P, et al. (2026)**
 > *Temporal and climatic drivers of uncomplicated malaria in Ghana: Regional Generalised Additive and Generalised Additive Mixed Model analysis.*
-> PLOS ONE (under review), 2026.
+> PLOS ONE 21(11): e0352046. [https://doi.org/10.1371/journal.pone.0352046](https://doi.org/10.1371/journal.pone.0352046).
 
 The platform enables users to explore regional malaria case patterns across Ghana's ten former administrative regions (2012–2023), investigate nonlinear relationships between climate variables and malaria, and interact with fitted GAM and GAMM model outputs — all through an intuitive browser-based interface.
 
@@ -273,15 +273,18 @@ This work was supported by the **Bill & Melinda Gates Foundation** [Grant number
 If you use this platform or the associated analysis in your work, please cite:
 
 ```bibtex
-@article{akurugu2026gammap,
-  author  = {Akurugu, Edward and Awine, Timothy and Seidu, Baba and
-             Peprah, Nana Yaw and Mohammed, Wahjib and Boateng, Paul and
-             Abiwu, Paul Hilarius Asiwome Kosi and Silal, Sheetal Prakash},
-  title   = {Temporal and climatic drivers of uncomplicated malaria in Ghana:
-             Regional Generalised Additive and Generalised Additive Mixed Model analysis},
-  journal = {PLOS ONE},
-  year    = {2026},
-  note    = {Under review}
+@article{10.1371/journal.pone.0352046,
+    doi = {10.1371/journal.pone.0352046},
+    author = {Akurugu, Edward AND Awine, Timothy AND Seidu, Baba AND Peprah, Nana Yaw AND Mohammed, Wahjib AND Boateng, Paul AND Abiwu, Paul Hilarius Asiwome Kosi AND Silal, Sheetal Prakash},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Temporal and climatic drivers of uncomplicated malaria in Ghana: Regional Generalised Additive and Generalised Additive Mixed Model analysis},
+    year = {2026},
+    month = {11},
+    volume = {21},
+    url = {https://doi.org/10.1371/journal.pone.0352046},
+    pages = {1-24},
+    number = {11}
 }
 ```
 
