@@ -17,7 +17,7 @@
 
 **GAM(M)-MAP** is an interactive R Shiny dashboard built to accompany the research article:
 
-> **Akurugu E., Awine T., Seidu B., Peprah N.Y., Mohammed W., Boateng P, et al. (2026)**
+> **Akurugu E., Awine T., Seidu B., Peprah N.Y., Mohammed W., Boateng P, et al. (2026).**
 > *Temporal and climatic drivers of uncomplicated malaria in Ghana: Regional Generalised Additive and Generalised Additive Mixed Model analysis.*
 > PLOS ONE 21(11): e0352046. [https://doi.org/10.1371/journal.pone.0352046](https://doi.org/10.1371/journal.pone.0352046).
 
